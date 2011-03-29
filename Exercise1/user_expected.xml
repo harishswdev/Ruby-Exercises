@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user>
+  <email>aljohson@yourcompany.dk</email>
+  <name>Al Johnson</name>
+  <roles>4</roles>
+  <restriction-id>1</restriction-id>
+  <groups type='array'>
+    <group>2</group>
+    <group>3</group>
+  </groups>
+</user>

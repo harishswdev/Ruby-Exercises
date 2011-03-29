@@ -1,0 +1,15 @@
+/* reset a few things */
+body {
+  margin: 0;           /* remove a few things */
+  padding: 0;
+}
+
+
+
+
+
+/* for the main content div */
+#content {
+/* leading comment */  margin: 10px
+}
+/* trailing comment */
